@@ -1,0 +1,11 @@
+.flowers-f001bt{width: 250px; height: 150px; outline: 10px solid var(--fbck2); margin: 20px auto; border:5px solid var(--fbck1);}.flowers-f002bt{height: 100%; display: flex; align-items: center; justify-content: center; position: relative;transition:1s all; text-transform: lowercase; font-family:'prata'; font-weight:900;}.flowers-f002bt > *{transition: .4s all;}.flowers-f003{width: 60px; height: 60px; background: var(--faccent); border-radius: 100%; left: 175px; position: absolute; top: 45px; border:3px solid #fff; box-sizing:border-box; opacity:.95;}.flowers-f004{position: absolute; font-size: 35px; color: #fff; font-weight: 700; left: 180px; width:50px; height:35px; display:flex;align-items:center;justify-content:center;}.flowers-f002bt .flowers-f005{opacity: 0; position: absolute; left: 68px; font-size: 22px; margin-top: 50px; color: #fff;}.flowers-f002bt .flowers-f006{opacity: 0; position: absolute; margin-bottom: -96px; font-size: 22px; left: 54px; font-weight: 700; color: #fff;}.flowers-f002bt:hover .flowers-f003{width: 10px; border-radius: 0; left: 32px; height:44px; border-width:2px; top:90px;}.flowers-f002bt:hover .flowers-f004{font-size: 22px; width:22px; left: 50px; margin-top: 50px;}.flowers-f002bt:hover .flowers-f005{opacity: 1; transition-delay: .3s;}.flowers-f002bt:hover .flowers-f006{opacity: 1; transition-delay: .3s;}.flowers-f002bt:hover{backdrop-filter: brightness(.9);}a.sckbtfirma {
+    width: 274px;
+    margin: -9px auto 10px;
+    display: block;
+    text-align: right;
+    text-transform: uppercase;
+    font-size: 10px;
+    font-weight: 600;
+    letter-spacing: 2px;
+    color: #aaa;
+}
